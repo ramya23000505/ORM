@@ -38,5 +38,6 @@ admin.site.register(Employee)
 ## OUTPUT
 ![Screenshot 2024-04-03 175715](https://github.com/ramya23000505/ORM/assets/149370791/5847ce7f-91a2-45cf-bba3-69331a1d3d2c)
 ![Screenshot 2024-04-03 175114](https://github.com/ramya23000505/ORM/assets/149370791/cc1b7ae2-e329-4046-aa7d-97f0d912d18a)
+
 ## RESULT
 Thus the program for creating a database using ORM hass been executed successfully
